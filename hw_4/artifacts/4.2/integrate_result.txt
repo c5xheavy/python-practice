@@ -1,0 +1,35 @@
+ThreadPoolExecutor results:
+n_jobs: 1, time: 0.8694s
+n_jobs: 2, time: 0.9391s
+n_jobs: 3, time: 0.9781s
+n_jobs: 4, time: 0.9530s
+n_jobs: 5, time: 0.9032s
+n_jobs: 6, time: 0.9148s
+n_jobs: 7, time: 0.8877s
+n_jobs: 8, time: 0.8971s
+n_jobs: 9, time: 0.9228s
+n_jobs: 10, time: 0.9414s
+n_jobs: 11, time: 0.9883s
+n_jobs: 12, time: 1.0215s
+n_jobs: 13, time: 0.8973s
+n_jobs: 14, time: 0.8918s
+n_jobs: 15, time: 0.8908s
+n_jobs: 16, time: 0.8898s
+
+ProcessPoolExecutor results:
+n_jobs: 1, time: 0.8674s
+n_jobs: 2, time: 0.4921s
+n_jobs: 3, time: 0.3170s
+n_jobs: 4, time: 0.2786s
+n_jobs: 5, time: 0.4410s
+n_jobs: 6, time: 0.6995s
+n_jobs: 7, time: 0.6121s
+n_jobs: 8, time: 0.4140s
+n_jobs: 9, time: 0.4269s
+n_jobs: 10, time: 0.4064s
+n_jobs: 11, time: 0.4386s
+n_jobs: 12, time: 0.4129s
+n_jobs: 13, time: 0.4209s
+n_jobs: 14, time: 0.4347s
+n_jobs: 15, time: 0.4114s
+n_jobs: 16, time: 0.4181s

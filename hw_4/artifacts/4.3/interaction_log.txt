@@ -1,0 +1,16 @@
+Main: 2024-12-11 02:04:19 - Sent 'hello' to A
+Main: 2024-12-11 02:04:19 - Received 'uryyb' from B
+Main: 2024-12-11 02:04:20 - Sent '1' to A
+Main: 2024-12-11 02:04:24 - Received '1' from B
+Main: 2024-12-11 02:04:24 - Sent '2' to A
+Main: 2024-12-11 02:04:29 - Received '2' from B
+Main: 2024-12-11 02:04:29 - Sent '3' to A
+Main: 2024-12-11 02:04:34 - Received '3' from B
+Main: 2024-12-11 02:04:34 - Sent '4' to A
+Main: 2024-12-11 02:04:39 - Received '4' from B
+Main: 2024-12-11 02:04:39 - Sent '5' to A
+Main: 2024-12-11 02:04:44 - Received '5' from B
+Main: 2024-12-11 02:04:44 - Sent '6' to A
+Main: 2024-12-11 02:04:49 - Received '6' from B
+Main: 2024-12-11 02:04:49 - Sent '7' to A
+Main: 2024-12-11 02:04:54 - Received '7' from B

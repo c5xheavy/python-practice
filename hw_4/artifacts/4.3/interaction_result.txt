@@ -1,0 +1,51 @@
+amir@amir-TM1701:~/source/python-practice/hw_4$ python3 interaction.py
+Enter message or 'quit': hello
+Main: 2024-12-11 02:04:19 - Sent 'hello' to A
+Process A: 2024-12-11 02:04:19 - Received 'hello', sent 'hello' to B
+Process B: 2024-12-11 02:04:19 - Received 'hello', sent 'uryyb' to main
+Process B stdout: 2024-12-11 02:04:19 - uryyb
+Main: 2024-12-11 02:04:19 - Received 'uryyb' from B
+Enter message or 'quit': 1
+Main: 2024-12-11 02:04:20 - Sent '1' to A
+2
+3
+4
+5
+6
+7
+Process A: 2024-12-11 02:04:24 - Received '1', sent '1' to B
+Process B: 2024-12-11 02:04:24 - Received '1', sent '1' to main
+Process B stdout: 2024-12-11 02:04:24 - 1
+Main: 2024-12-11 02:04:24 - Received '1' from B
+Enter message or 'quit': Main: 2024-12-11 02:04:24 - Sent '2' to A
+Process A: 2024-12-11 02:04:29 - Received '2', sent '2' to B
+Process B: 2024-12-11 02:04:29 - Received '2', sent '2' to main
+Process B stdout: 2024-12-11 02:04:29 - 2
+Main: 2024-12-11 02:04:29 - Received '2' from B
+Enter message or 'quit': Main: 2024-12-11 02:04:29 - Sent '3' to A
+Process A: 2024-12-11 02:04:34 - Received '3', sent '3' to B
+Process B: 2024-12-11 02:04:34 - Received '3', sent '3' to main
+Process B stdout: 2024-12-11 02:04:34 - 3
+Main: 2024-12-11 02:04:34 - Received '3' from B
+Enter message or 'quit': Main: 2024-12-11 02:04:34 - Sent '4' to A
+Process A: 2024-12-11 02:04:39 - Received '4', sent '4' to B
+Process B: 2024-12-11 02:04:39 - Received '4', sent '4' to main
+Process B stdout: 2024-12-11 02:04:39 - 4
+Main: 2024-12-11 02:04:39 - Received '4' from B
+Enter message or 'quit': Main: 2024-12-11 02:04:39 - Sent '5' to A
+Process A: 2024-12-11 02:04:44 - Received '5', sent '5' to B
+Process B: 2024-12-11 02:04:44 - Received '5', sent '5' to main
+Process B stdout: 2024-12-11 02:04:44 - 5
+Main: 2024-12-11 02:04:44 - Received '5' from B
+Enter message or 'quit': Main: 2024-12-11 02:04:44 - Sent '6' to A
+Process A: 2024-12-11 02:04:49 - Received '6', sent '6' to B
+Process B: 2024-12-11 02:04:49 - Received '6', sent '6' to main
+Process B stdout: 2024-12-11 02:04:49 - 6
+Main: 2024-12-11 02:04:49 - Received '6' from B
+Enter message or 'quit': Main: 2024-12-11 02:04:49 - Sent '7' to A
+Process A: 2024-12-11 02:04:54 - Received '7', sent '7' to B
+Process B: 2024-12-11 02:04:54 - Received '7', sent '7' to main
+Process B stdout: 2024-12-11 02:04:54 - 7
+Main: 2024-12-11 02:04:54 - Received '7' from B
+Enter message or 'quit': quit
+amir@amir-TM1701:~/source/python-practice/hw_4$
